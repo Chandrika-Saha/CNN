@@ -46,4 +46,3 @@ DCNN model yields a recognition accuracy of 95.94% on BanglaLekha
 isolated dataset and 93.86% accuracy on Ekush dataset. All these ex-
 perimental evaluation is shown to give superior recognition accuracies
 then existing prominent techniques.
-Chapter 0 Chandrika Saha 13
